@@ -1,8 +1,11 @@
-# beta
-para copiar o codigo em html
-´´´´
-<html> 
-  <h1>  meu primeiro arquivo </h1>
-  <html>
-    
-    ´´´´´´
+<DOCTYPE html>
+  <htmç lang="pt-br"
+
+   <head>
+  <meta charset="UTF-8">
+  <title>seu blo</title>
+  <link rel="stylesheet" href="style.css">
+  <head>
+        
+   
+   
