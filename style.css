@@ -1,0 +1,24 @@
+p {
+    text-align: center;
+
+}
+
+body{
+    background: rgb(166, 73, 238);
+
+}
+
+em strong{
+    color: rgb(100, 45, 105);
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(100, 45, 105);
+
+}
+
+#meio {
+    font-size: 18px;
+}
