@@ -1,0 +1,52 @@
+body {
+    background: rgb(146, 61, 167);
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(60, 14, 65);
+    border: 3px solid rgb(60, 14, 65) ;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.caix {
+    width: 1360px;
+
+
+}
+
+#fadin {
+
+    width: 20%;
+
+}
+
+.caixa {
+
+    width: 1360px;
+    border: 3px solid;
+}
+
+
+nav li {
+    display: inline;
+    margin: 0 0 0 30px;;
+    position: relative;
+    left: 150px;
+
+}
+nav a {
+    text-transform: uppercase;
+    color: rgb(100, 20, 121);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration:none;
+
+}
