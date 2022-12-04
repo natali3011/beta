@@ -5,11 +5,11 @@ p {
 }
 
 body{
-    border: 5px solid rgb(60, 14, 65);
+    border: 5px solid rgb(14, 26, 65)
 }
 
 em strong{
-    color: rgb(60, 14, 65);
+    color: rgb(14, 26, 65);
 
 }
 
@@ -23,7 +23,6 @@ em strong{
 
 
 
-
 #hyde {
     width: 30%;
     margin: auto;
@@ -33,25 +32,42 @@ em strong{
 
 .comeco {
 
-    background: rgb(118, 43, 175);
+    background: rgb(73, 146, 168);
     padding: 20px;
-    border: 3px solid rgb(60, 14, 65)
+    border: 3px solid rgb(14, 26, 65)
 }
 
 
 h1 {
     text-align: center;
-    color: rgb(60, 14, 65);
-    border: 3px solid rgb(60, 14, 65) ;
+    color: rgb(14, 26, 65);
+    border: 3px solid rgb(14, 26, 65) ;
     font-size:40px;
 }
 
 .criaturas {
-    background: rgb(113, 52, 160);
+    background: rgb(73, 146, 168);
     padding: 20px;
-    border: 3px solid rgb(60, 14, 65);
+    border: 3px solid rgb(14, 26, 65);
 
 }
+.criatura {
+    background: rgb(73, 146, 168);
+    padding: 20px; ;
+    display: inline-block;
+    text-align: ;
+}
+
+#titulo {
+        text-align: center;
+        color: rgb(14, 26, 65);
+        border:3px solid rgb(14, 26, 65);;
+        font-size: 50px;
+        padding-bottom: 10px;
+
+
+}
+
 
 ul {
 
@@ -60,6 +76,9 @@ ul {
     width: 30%;
     margin-right: 10%;
 }
+
+
+
 .seres {
     font-style: italic;
     font-size: 18px;
@@ -73,16 +92,20 @@ ul {
 
 h2 {
     text-align: center;
-    color: rgb(60, 14, 65);
-    border:3px solid rgb(60, 14, 65);
-    font-size: 40px;
+    color: rgb(14, 26, 65);
+    border:3px solid rgb(52, 66, 114);;
+    font-size: 25px;
     padding-bottom: 10px;
+    padding-top: 10px;
 }
 
+
+
 header {
-    background:rgb(141, 53, 209) ;
+    background:rgb(73, 146, 168) ;
     font-size: 70px;
-    border: 3px solid rgb(60, 14, 65) ;
-    color: rgb(60, 14, 65);
+    border: 3px solid rgb(14, 26, 65) ;
+    color: rgb(14, 26, 65);
     text-align: center;
 }
+
