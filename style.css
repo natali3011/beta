@@ -17,7 +17,7 @@ em strong{
    margin: auto;
    display:inline-block;
    width: 50%;
-   border: 3px solid rgb(60, 14, 65) ;
+   padding-top: 15px;
 }
 
 
@@ -29,7 +29,6 @@ em strong{
     margin: auto;
     display:block;
     height: 250px;
-    border: 3px solid  rgb(60, 14, 65) ;
 }
 
 .comeco {
@@ -44,6 +43,7 @@ h1 {
     text-align: center;
     color: rgb(60, 14, 65);
     border: 3px solid rgb(60, 14, 65) ;
+    font-size:40px;
 }
 
 .criaturas {
@@ -75,11 +75,13 @@ h2 {
     text-align: center;
     color: rgb(60, 14, 65);
     border:3px solid rgb(60, 14, 65);
+    font-size: 40px;
+    padding-bottom: 10px;
 }
 
 header {
     background:rgb(141, 53, 209) ;
-    font-size: 40px;
+    font-size: 70px;
     border: 3px solid rgb(60, 14, 65) ;
     color: rgb(60, 14, 65);
     text-align: center;

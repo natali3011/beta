@@ -36,7 +36,7 @@ nav a {
    margin: auto;
    display:inline-block;
    width: 50%;
-   padding-top: 15px;
+   border: 3px solid rgb(14, 65, 31);
 }
 
 
@@ -48,7 +48,7 @@ nav a {
     margin: auto;
     display:block;
     height: 250px;
-    padding-top: 15px ;
+    border: 3px solid  rgb(14, 65, 31) ;
 }
 
 .comeco {
@@ -93,7 +93,7 @@ ul {
 
 h2 {
     text-align: center;
-    color:rgb(14, 65, 31);
+    color:rgb(14, 55, 65);
     border:3px solid  rgb(14, 65, 31);
     font-size: 40px;
 }
