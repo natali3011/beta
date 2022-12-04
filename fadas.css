@@ -1,52 +1,107 @@
-body {
-    background: rgb(146, 61, 167);
-
-}
-
-h1 {
-    text-align: center;
-    color: rgb(60, 14, 65);
-    border: 3px solid rgb(60, 14, 65) ;
-    font-size: 50px;
-}
-
 p {
     text-align: center;
     font-size: 20px;
 
 }
 
-.caix {
-    width: 1360px;
-
-
+body{
+    border: 5px solid rgb(60, 14, 65);
 }
 
-#fadin {
-
-    width: 20%;
+em strong{
+    color: rgb(60, 14, 65);
 
 }
 
 .caixa {
-
     width: 1360px;
     border: 3px solid;
 }
 
-
 nav li {
     display: inline;
-    margin: 0 0 0 30px;;
+    margin: 0 0 0 10px;;
     position: relative;
-    left: 150px;
-
+    left: 50px;
 }
 nav a {
     text-transform: uppercase;
     color: rgb(100, 20, 121);
     font-weight: bold;
-    font-size: 22px;
+    font-size: 20px;
     text-decoration:none;
 
+}
+.creepy {
+   margin: auto;
+   display:inline-block;
+   width: 50%;
+   border: 3px solid rgb(60, 14, 65) ;
+}
+
+
+
+
+
+#hyde {
+    width: 30%;
+    margin: auto;
+    display:block;
+    height: 250px;
+    border: 3px solid  rgb(60, 14, 65) ;
+}
+
+.comeco {
+
+    background: rgb(118, 43, 175);
+    padding: 20px;
+    border: 3px solid rgb(60, 14, 65)
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(60, 14, 65);
+    border: 3px solid rgb(60, 14, 65) ;
+    font-size: 40px;
+}
+
+.criaturas {
+    background: rgb(113, 52, 160);
+    padding: 20px;
+    border: 3px solid rgb(60, 14, 65);
+
+}
+
+ul {
+
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 10%;
+}
+.seres {
+    font-style: italic;
+    font-size: 18px;
+
+}
+
+
+#meio {
+    font-size: 18px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(60, 14, 65);
+    border:3px solid rgb(60, 14, 65);
+    font-size: 40px;
+}
+
+header {
+    background:rgb(141, 53, 209) ;
+    font-size: 30px;
+    border: 3px solid rgb(60, 14, 65) ;
+    color: rgb(60, 14, 65);
+    text-align: center;
 }
