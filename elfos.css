@@ -5,11 +5,11 @@ p {
 }
 
 body{
-    border: 5px solid rgb(14, 65, 31);
+    border: 5px solid rgb(19, 14, 65);
 }
 
 em strong{
-    color: rgb(14, 65, 31);
+    color: rgb(19, 14, 65);
 
 }
 
@@ -26,7 +26,7 @@ nav li {
 }
 nav a {
     text-transform: uppercase;
-    color: rgb(14, 65, 31);
+    color: rgb(19, 14, 65);
     font-weight: bold;
     font-size: 20px;
     text-decoration:none;
@@ -36,7 +36,7 @@ nav a {
    margin: auto;
    display:inline-block;
    width: 50%;
-   border: 3px solid rgb(14, 65, 31);
+   padding-top: 10px;
 }
 
 
@@ -47,29 +47,29 @@ nav a {
     width: 30%;
     margin: auto;
     display:block;
-    height: 250px;
-    border: 3px solid  rgb(14, 65, 31) ;
+    height: 350px;
+    padding-top: 15px;
 }
 
 .comeco {
 
-    background: rgb(52, 160, 84);
+    background: rgb(53, 103, 209);
     padding: 20px;
-    border: 3px solid rgb(14, 65, 31);
+    border: 3px solid rgb(19, 14, 65);
 }
 
 
 h1 {
     text-align: center;
-    color: rgb(14, 65, 31);
-    border: 3px solid rgb(14, 65, 31) ;
+    color: rgb(19, 14, 65);
+    border: 3px solid rgb(19, 14, 65) ;
     font-size: 40px;
 }
 
 .criaturas {
-    background: rgb(52, 160, 84);
+    background: rgb(53, 103, 209);
     padding: 20px;
-    border: 3px solid rgb(14, 65, 31);
+    border: 3px solid rgb(19, 14, 65);
 
 }
 
@@ -93,15 +93,15 @@ ul {
 
 h2 {
     text-align: center;
-    color:rgb(14, 55, 65);
-    border:3px solid  rgb(14, 65, 31);
+    color:rgb(19, 14, 65);
+    border:3px solid  rgb(19, 14, 65);
     font-size: 40px;
 }
 
 header {
-    background:rgb(53, 209, 123) ;
+    background:rgb(53, 103, 209) ;
     font-size: 30px;
-    border: 3px solid rgb(14, 65, 31) ;
-    color: rgb(14, 65, 31);
+    border: 3px solid rgb(19, 14, 65) ;
+    color: rgb(19, 14, 65);
     text-align: center;
 }
